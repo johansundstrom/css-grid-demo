@@ -1,0 +1,29 @@
+CSS GRID LAYOUT (eller GRID)
+============================
+
+Layout historia
+---------------
+1) tables - html
+2) floats/positioning/inline-block - css
+3) flexbox (endimensionell)
+4) grid (tvådimensionell)
+
+
+Delarna
+-------
+* Grid container - (behållare) (css div - display: grid)
+
+    <div class="container">
+        <div class="item item-1">1</div>
+        <div class="item item-2">2</div>
+        <div class="item item-3">3</div>
+    </div>  
+
+* Grid Item - (direkta children) (css div)
+
+* Grid line - De avdelningslinjer som utgör strukturen
+	column grid lines
+	row grid lines
+
+Grid track
+		
