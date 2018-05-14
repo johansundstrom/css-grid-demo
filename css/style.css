@@ -1,0 +1,20 @@
+.jumbo-bg {
+    background-image: url("../images/blue-bg.jpg");
+    background-size: cover;
+}
+
+.navbar-bg-color {
+    background-color: dodgerblue;
+}
+.kol10 {
+    background-color: red;
+    height: 100px;
+}
+.kol20 {
+    background-color: green;
+    height: 100px;
+}
+.kol30 {
+    background-color: blue;
+    height: 100px;
+}
